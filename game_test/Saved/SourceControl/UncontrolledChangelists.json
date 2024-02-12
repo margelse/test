@@ -5,7 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/work_game-project/MyProject_1/test/game_test/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/work_game-project/MyProject_1/test/game_test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/Maps/NewWorld.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/NewFolder_test/NewWorld.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/Maps_2/NewWorld.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/NewFolder_test/NewWorld1.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/Maps/NewWorld1.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/NewFolder_test/NewWorld2.umap",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/Maps_2/NewMaterial.uasset",
+				"D:/work_game-project/MyProject_1/test/game_test/Content/Maps/NewMaterial.uasset"
 			]
 		}
 	]
